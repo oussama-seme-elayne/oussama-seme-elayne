@@ -14,6 +14,7 @@
 ![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=%23F7DF1E)
 <br />
 <br />
+<img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/programming.gif" with="854" height="477.33">
 
 #### Top Framworks
 
