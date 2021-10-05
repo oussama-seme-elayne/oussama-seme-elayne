@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/oussama-seme-elayne-ba6800198/
 
-<img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/studentcard.png" with="750" height="292.666667">
+<img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/dropoutcard.png" with="750" height="292.666667">
 
 #### Top Languages
 
