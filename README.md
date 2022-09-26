@@ -26,13 +26,3 @@
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussama-seme-elayne&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Coding Status
-<!--START_SECTION:waka-->
-```text
-Other        6 hrs 1 min     █████████████▒░░░░░░░░░░░   45.94 % 
-Python       2 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   24.36 % 
-C            1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Dart         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-```
-<!--END_SECTION:waka-->
