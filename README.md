@@ -34,7 +34,7 @@
 
 ![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
-![Vim](https://img.shields.io/badge/-Vim?style=for-the-badge&logo=vim)
+![Vim](https://img.shields.io/badge/-Vim-brightgreen.svg?style=for-the-badge&logo=vim)
 <br />
 
 #### Profile Visitors
