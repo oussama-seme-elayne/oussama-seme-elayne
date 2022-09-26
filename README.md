@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/oussama-seme-elayne-ba6800198/
 
+#### Education
+
 [![oseme-el's 42 stats](https://badge.mediaplus.ma/binary/oseme-el)](https://github.com/oakoudad/badge42)
 
 <img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/dropoutcard.png" with="750" height="292.666667">
