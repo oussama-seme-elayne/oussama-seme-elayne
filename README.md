@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/oussama-seme-elayne">
-    <img src="https://img.shields.io/github/followers/UUinc?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/oussama-seme-elayne?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/oussama-seme-elayne-ba6800198/">
     <img src="https://img.shields.io/website?label=Linkedin&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Linkedin"/>
