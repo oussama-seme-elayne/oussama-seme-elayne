@@ -12,6 +12,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=%23F7DF1E)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/programming.gif" with="427" height="239">
@@ -20,6 +21,21 @@
 
 ![Flask](https://img.shields.io/badge/Flask-%2343853D.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5026D5?style=for-the-badge&logoColor=white)
+
+#### Databases
+
+![MySql](https://img.shields.io/badge/MySQL-2294aa.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/-postgreSQL-4c85aa?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&logo=SQLite&logoColor=white)
+
+#### IDE
+
+![VSCODE](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
+![Vim](https://img.shields.io/badge/-Vim?style=for-the-badge&logo=vim)
+<br />
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=oussama-seme-elayne.oussama-seme-elayne)
