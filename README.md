@@ -14,9 +14,6 @@
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/oussama-seme-elayne-ba6800198/
 
-#### Education
-
-<img src="https://raw.githubusercontent.com/oussama-seme-elayne/portfolio/master/assets/img/dropoutcard.png" with="750" height="292.666667">
 
 #### Top Languages
 
@@ -48,8 +45,6 @@
 ![Vim](https://img.shields.io/badge/-Vim-brightgreen.svg?style=for-the-badge&logo=vim)
 <br />
 
-#### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oussama-seme-elayne.oussama-seme-elayne)
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussama-seme-elayne&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
